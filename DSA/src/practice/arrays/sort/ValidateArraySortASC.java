@@ -15,7 +15,8 @@ public class ValidateArraySortASC {
 		System.out.println("Is input array sorted by ASC ? " + isArraySortedByASC(input));
 		int input2[] = {4, 5, 9, 21, 21, 30};
 		System.out.println("Is input2 array sorted by ASC ? " + isArraySortedByASC(input2));
-		
+		int input3[] = { 5 };
+		System.out.println("Is input3 array sorted by ASC ? " + isArraySortedByASC(input3));
 		
 	}
 	
